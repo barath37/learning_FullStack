@@ -1,0 +1,15 @@
+body{
+    background: linear-gradient(to right, lightblue, lightpink, lightblue);
+    /* linear gradient works as background not for background color */
+}
+h1{
+    color: rgb(207, 151, 151);
+    text-align: center;
+}
+img{
+    width: 300px;
+    height: 200px;
+    border: 2px solid black;
+    margin: 10px silver double; 
+    border-radius: 10px;
+}
