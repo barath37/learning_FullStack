@@ -13,3 +13,6 @@ img{
     margin: 10px silver double; 
     border-radius: 10px;
 }
+.list{
+    font-weight: 100;
+}
