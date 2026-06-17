@@ -14,5 +14,8 @@ img{
     border-radius: 10px;
 }
 .list{
-    font-weight: 100;
+    text-align: center;
+}
+.point:hover{
+    font-weight: bold;
 }
